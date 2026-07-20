@@ -28,12 +28,6 @@ Work Experience
 * **Research Intern**, Shanghai AI Lab (June 2023 - December 2023)  
   Advisor: Prof. Yu Cheng
 
-Skills
-======
-* **Programming:** Python, C/C++, Java
-* **Deep Learning:** PyTorch, Transformers, JAX
-* **Research:** Natural Language Processing, Machine Learning, Large Language Models, Vision-Language Models
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
